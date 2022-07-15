@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm matheus</h1>
-<h3 align="center">sou um entusiasta por tudo que envolve o mundo da programação. atualmente estou estudando desenvolvimento web focado no front-end</h3>
+<h3 align="center">sou um entusiasta por tudo que envolve o mundo da programação. atualmente estou estudando desenvolvimento web focado no front-end minha meta é ser pelo menos um pouco melhor do que eu fui ontem prezo muito pela constancia, perseverança e dedicação nos meus estudos ainda tenho muito caminho pra trilhar nessa vida de de dev-web mas estou disposto a enfrentar grandes desafios que venham me tirar da sona de conforto e que possam de alguma forma ajudar a vida das pessoas</h3>
 
 - 🌱 I’m currently learning **javascript, html e css**
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/ovomaltine" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ovomaltine" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matheus makario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus makario" height="30" width="40" /></a>
 <a href="https://instagram.com/ms.matheus0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ms.matheus0" height="30" width="40" /></a>
 </p>
