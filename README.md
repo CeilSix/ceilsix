@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Me chamo Matheus</h1>
 
-<h3 align="left">Sou um entusiasta por tudo que envolve o mundo da programação. Atualmente estou estudando desenvolvimento web focado no Front-End. Minha meta é ser pelo menos um pouco melhor do que eu fui ontem, prezo muito pela constancia, perseverança e dedicação nos meus estudos, ainda tenho muito caminho pra trilhar nessa vida de de dev-web, mas estou disposto a enfrentar grandes desafios que venham me tirar da sona de conforto e que possam de alguma forma ajudar a vida das pessoas</h3>
+<h3 align="left">Sou um entusiasta por tudo que envolve o mundo da programação. Atualmente estou estudando desenvolvimento web focado no Front-End. Minha meta é ser pelo menos um pouco melhor do que eu fui ontem, prezo muito pela constancia, perseverança e dedicação nos meus estudos. Ainda tenho muito caminho pra trilhar nessa vida de de dev-web, mas estou disposto a enfrentar grandes desafios que venham me tirar da sona de conforto e que possam de alguma forma ajudar a vida das pessoas</h3>
 
 - 🌱 Atualmente, estou aprendendo *Javascript, HTML e CSS**
 
